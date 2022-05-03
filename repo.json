@@ -1,0 +1,26 @@
+[
+     {
+        "name": "Quick Shar e",
+        "author": "Laddi Brar",
+        "version": "1.0",  
+        "description": "This is a shortcut ok?",
+        "longDescription": "https://google.com",
+        "download": "https://www.icloud.com/shortcuts/3a220b76e8744a92a2f7ea94a690ee89",
+        "compatibility": [
+            "13.0",
+            "15.4"
+        ],
+        "icons" : {
+            "shortcut": "https://avatars.githubusercontent.com/u/81449663?v=4",
+            "author": "https://avatars.githubusercontent.com/u/81449663?v=4",
+            "banner": "https://avatars.githubusercontent.com/u/81449663?v=4"
+        },
+        "screenshots" : [
+            "https://avatars.githubusercontent.com/u/81449663?v=4",
+        ],
+        "olderVersions": {
+            "0.9": "https://icloud.com/shortcuts/18394fuirg87456t7f7e8g98",
+            "0.8.1": "https://icloud.com/shortcuts/uefjvd8ve7717348heve354556"
+        }
+    }
+]
