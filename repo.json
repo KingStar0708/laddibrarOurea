@@ -1,11 +1,11 @@
 [
      {
-        "name": "Quick Share",
-        "author": "Laddi Brar",
+        "name": "Test Shortcut",
+        "author": "Nightwind",
         "version": "1.0",  
-        "description": "This is a shortcut ok?",
+        "description": "This is a test shortcut",
         "longDescription": "https://google.com",
-        "download": "https://www.icloud.com/shortcuts/3a220b76e8744a92a2f7ea94a690ee89",
+        "download": "https://www.icloud.com/shortcuts/10294857a8481jsw1919358",
         "compatibility": [
             "13.0",
             "15.4"
